@@ -5,7 +5,8 @@ Codesandbox for this gist can be found at https://codesandbox.io/s/javascript-da
 
 ## Screenhost
 
-![alt text](https://xnys0h.csb.app)(https://www.dropbox.com/s/x9dgpjgbbtbd5gs/react-material-tree-checkbox.png?raw=1)
+[![alt text](https://www.dropbox.com/s/x9dgpjgbbtbd5gs/react-material-tree-checkbox.png?raw=1)](https://xnys0h.csb.app)
+https://xnys0h.csb.app
 
 ## Improvisation
 
